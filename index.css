@@ -1,0 +1,161 @@
+body {
+  margin: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px, 20px;
+  background-color: rgb(237, 235, 240);
+}
+
+.nav-links {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  gap: 30px;
+}
+
+.nav-links a:hover {
+  background-color: rgb(240, 151, 116);
+}
+.navbar a {
+  color: rgb(85, 83, 83);
+  text-decoration: none;
+  padding: 10px;
+  font-size: 20px;
+}
+
+.nav-buttons {
+  display: flex;
+  gap: 15px;
+}
+
+.btn-signin {
+  padding: 10px 20px;
+  border: none;
+  color: orangered;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.btn-try {
+  padding: 10px 20px;
+  background-color: rgb(243, 105, 54);
+  cursor: pointer;
+  font-size: 16px;
+}
+.section1 {
+  display: flex;
+  margin-top: 70px;
+  justify-content: space-between;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+.text {
+  display: flex;
+  margin-top: 20px;
+}
+.pp {
+  color: rgb(117, 117, 117);
+  font-weight: 600;
+  font-size: 20px;
+}
+.sp {
+  color: rgb(47, 47, 150);
+  font-size: 100px;
+  font-weight: 500;
+}
+
+.pp1 {
+  color: rgb(117, 117, 117);
+  font-weight: 600;
+  font-size: 25px;
+}
+.btn-download {
+  padding: 10px 20px;
+  color: white;
+  background-color: orangered;
+  font-weight: 300;
+  font-size: 20px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.btn-check {
+  padding: 10px 20px;
+  color: rgb(199, 91, 19);
+  background-color: rgb(255, 255, 255);
+  font-weight: 300;
+  font-size: 20px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.section2 {
+  margin-top: 180px;
+}
+
+.divv {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: rgb(231, 218, 163);
+}
+
+.social {
+  display: flex;
+  list-style: none;
+}
+
+.social img {
+  margin-right: 40px;
+  margin-left: 120px;
+}
+
+.section3 {
+  display: flex;
+  margin-top: 110px;
+  margin-left: 100px;
+}
+
+.img2 {
+  margin-right: 140px;
+}
+
+.imgg {
+  width: 300px;
+}
+
+.text2 {
+  margin-top: 90px;
+  margin-right: 790px;
+}
+
+.pp3 {
+  color: rgb(0, 8, 124);
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.sp1 {
+  font-size: 50px;
+  font-weight: 600;
+  color: rgb(39, 39, 39);
+}
+
+.pp4 {
+  font-size: 20px;
+  color: rgb(61, 61, 61);
+  font-weight: 500;
+}
+
+.section4 {
+  margin-top: 120px;
+  margin-left: 120px;
+}
+.p {
+  display: flex;
+}
